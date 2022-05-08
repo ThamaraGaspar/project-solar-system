@@ -1,0 +1,9 @@
+.fundo {
+  background-image: url(background.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+body {
+  color: rgb(227, 235, 236);
+}

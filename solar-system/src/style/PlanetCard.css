@@ -1,0 +1,10 @@
+.card {
+  margin: auto;
+  display: inline-block;
+  text-align: center;
+  width: 8%;
+  background: rgba(11, 1, 21, 0.375);
+  padding: 28px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgb(126, 126, 126);
+}

@@ -1,0 +1,10 @@
+.headline {
+    margin: auto;
+    display: flexbox;
+    text-align: center;
+    width: 40%;
+    background: rgba(11, 1, 21, 0.375);
+    padding: 5px;
+    border-radius: 8px;
+    box-shadow: 10 10 10px rgb(126, 126, 126);
+}
